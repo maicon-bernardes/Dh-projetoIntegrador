@@ -1,7 +1,24 @@
-.titop{
-
+.titop {
 }
-.screach{
-   position: relative;
+.screach {
+  position: relative;
+}
 
+.img-receita {
+  width: 250px;
+  height: 250px;
+  float: left;
+  margin: 0;
+}
+
+.texto-lateral-receita {
+  max-width: 600px;
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+.passo-apasso-receita,
+.texto-lateral-receita,
+.img-receita {
+  display: inline-block;
 }
